@@ -63,7 +63,7 @@ README.md
 ---
 
 ## 👤 Author
-**Rajesh Kumar**  
+**nitin swain**  
 B.Tech – CSE (AI & ML)
 
 ---
